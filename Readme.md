@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Кристина Магер](https://up.htmlacademy.ru/htmlcss/36/user/1418235).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Рыбаков] (https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
